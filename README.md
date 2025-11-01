@@ -1,31 +1,56 @@
-## Bonjour, c'est Axel Ferrand--Balmain ! 👋
+# 👋 Salut, moi c’est Axel Ferrand--Balmain
 
-Je suis un **designer numérique** et **développeur web**, passionné par l'UI/UX et le branding. Actuellement en **DNMADE Graphisme** à l'École by CCI (Haute-Savoie), j'aime concevoir des interfaces engageantes et optimisées pour l'expérience utilisateur.
-
----
-
-### 🚀 Ce que je fais
-- **UI/UX Design** sur **Figma, Illustrator et Photoshop** 🎨
-- **Développement Web** (HTML, CSS, JS, PHP, MySQL, React avec Vite) 💻
-- **Branding** et identité visuelle 🎨
-- **Gestion de projets et collaboration** sur **GitHub** 🛠️
+🎨 **Designer d’interface & développeur front-end**  
+💡 Étudiant en design numérique à [L’École by CCI Haute-Savoie](https://www.lecolebycci.fr/)  
+💼 Alternant chez [Galeon](https://www.galeon.care) — logiciels santé innovants et gamifiés  
 
 ---
 
-### 🔥 Mes projets récents
-- **Holosphere** – Un produit interactif projetant des hologrammes 📡
-- **Arcadia** – Direction artistique d’un bar à jeux événementiel 🎮
-- **File d'attente virtuelle** – Solution pour mon lycée 🍽️
-- **Portfolio** – Mon site perso avec mes créations ✨ [👉 axelfb.fr](https://axelfb.fr)
+## 🚀 Mes projets phares
+
+### 🧩 [Obrado](https://obrado.app)
+Plateforme collaborative SaaS connectant **étudiants, écoles et entreprises** autour de projets créatifs.  
+Conçue pour mettre en avant les **compétences humaines** et la **collaboration interdisciplinaire**, Obrado valorise la créativité face à la réalisation mécanique de l’IA.  
+> Entreprenariat, design & front-end.
 
 ---
 
-### 📫 Me contacter
-💼 **LinkedIn** : [linkedin.com/in/axel-ferrandbalmain](https://www.linkedin.com/in/axel-ferrandbalmain/)  
-📷 **Instagram** : [@axel.ferrandbalmain](https://www.instagram.com/axel.ferrandbalmain)  
-🎨 **Dribbble** : [dribbble.com/Fryxeel](https://dribbble.com/Fryxeel)  
-🖥️ **GitHub** : Vous êtes déjà ici 😉
+### 🍽️ selfLLL
+Projet de lycée visant à **fluidifier la file d’attente du self** grâce à une file virtuelle en temps réel.  
+> UX / UI, front et back développés en autonomie.
 
 ---
 
-💡 **"Créer, c'est donner vie à une idée."** 🚀
+### 💎 Autres créations
+Retrouve mes **projets de design, d’interfaces et de branding** sur mon [portfolio](https://axelfb.fr).  
+Quelques exemples :
+- **Holosphere** — un objet émotionnel qui projette souvenirs et musique dans une sphère interactive.  
+- **Refontes UI/UX** d’applications et sites web modernes (mockups sous Figma & Photoshop).  
+- **Expérimentations front-end** sous React, Tailwind et MySQL.
+
+---
+
+## 🧠 Compétences
+
+- **Design UI/UX** : Figma, Photoshop, Illustrator  
+- **Développement web** : React, TypeScript, Tailwind, MySQL  
+- **Soft skills** : créativité, autonomie, sens du détail, travail en équipe  
+- **Outils** : VS Code, GitHub, Storybook, Notion
+
+---
+
+## 🌍 À propos de moi
+
+- Basé à **Annecy (Haute-Savoie)** 🏔️  
+- Passionné par le **design d’interfaces**, la **tech** et la **création d’expériences utiles et élégantes**  
+- Je partage mes projets sur [Dribbble](https://dribbble.com/Fryxeel), [Instagram](https://www.instagram.com/axel.ferrandbalmain) et [YouTube](https://www.youtube.com/@Fryxeel)
+
+---
+
+## ✉️ Me contacter
+📧 [fba@ik.me](mailto:fba@ik.me)  
+🌐 [axelfb.fr](https://axelfb.fr)
+
+---
+
+> “Je façonne des interfaces qui racontent des histoires — où le design et le code s’harmonisent pour créer du sens.”
