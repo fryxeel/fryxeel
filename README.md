@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Axel Ferrand--Balmain
+# 👋 Hello, moi c’est Axel Ferrand--Balmain
 
 🎨 **Designer d’interface & développeur front-end**  
 💡 Étudiant en design numérique à [L’École by CCI Haute-Savoie](https://www.lecole-cci.fr/ecole-digital)  
@@ -53,4 +53,4 @@ Quelques exemples :
 
 ---
 
-> “Je façonne des interfaces qui racontent des histoires — où le design et le code s’harmonisent pour créer du sens.”
+> “It's either a good idea or a good story.”
