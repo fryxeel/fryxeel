@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Axel Ferrand--Balmain
 
 🎨 **Designer d’interface & développeur front-end**  
-💡 Étudiant en design numérique à [L’École by CCI Haute-Savoie](https://www.lecolebycci.fr/)  
+💡 Étudiant en design numérique à [L’École by CCI Haute-Savoie](https://www.lecole-cci.fr/ecole-digital)  
 💼 Alternant chez [Galeon](https://www.galeon.care) — logiciels santé innovants et gamifiés  
 
 ---
